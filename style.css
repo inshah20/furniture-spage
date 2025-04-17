@@ -48,3 +48,13 @@
     width: 100% !important;
     height: 140px !important;
 }
+
+.bg-4{
+    background-color: #EFEFEF;
+    width: 100% !important;
+    height: 430px !important;
+}
+
+.footer{
+    background-color: #2B2B2B;
+}
